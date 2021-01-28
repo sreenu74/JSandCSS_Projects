@@ -1,2 +1,2 @@
 # JSandCSS_Projects
-Upgrading JS and CSS, DOM Manipulation...
+Small projects to level up JavasScript and CSS Skills..
